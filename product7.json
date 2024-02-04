@@ -1,0 +1,28 @@
+{
+  "id": "product7",
+  "name": "Mouse",
+  "description": "quisquam enim ut.",
+  "price": 47.790260992544816,
+  "brand": "Ooba",
+  "category": "eum",
+  "color": "Red",
+  "size": "minus",
+  "availability": 65,
+  "reviews": [
+    {
+      "user": "Fred Nelson",
+      "rating": 2,
+      "comment": "voluptatem voluptas provident autem quia qui nostrum sapiente. ut rem recusandae molestias quae dolorum maxime. consectetur quas quia! modi sed itaque minus omnis est ut! cum natus id iusto dicta corporis et. explicabo debitis laboriosam voluptatibus vero rerum veritatis rem tenetur nam. quasi asperiores quod voluptas. alias quam cupiditate temporibus velit et illum sunt. recusandae aliquam est perferendis ut. sequi quae dignissimos eligendi.\talias aspernatur nemo distinctio non totam rem. qui molestias quo. velit aliquam est quos sit explicabo cumque ab. corporis labore nihil et corrupti laudantium consequatur! quia aut quaerat quo ex illo iure numquam."
+    },
+    {
+      "user": "Raymond Bryant",
+      "rating": 1,
+      "comment": "nostrum veritatis omnis est quisquam. nihil harum quibusdam ut ut illum!\ttempore aut vitae labore ipsa sit et. harum tenetur omnis dolorem. dolor dolorum at blanditiis corrupti assumenda!"
+    },
+    {
+      "user": "Eric Flores",
+      "rating": 3,
+      "comment": "alias cum eos itaque quia sunt necessitatibus magni! qui eligendi et autem. odio tempora sit labore totam. consequatur velit vitae. id magni non et. ut iste qui. est vel enim molestiae similique officia sint. non labore odit voluptas incidunt excepturi. aut minima illo.\test qui et sapiente culpa cumque! et et perferendis sint neque perspiciatis possimus. minima qui nobis dolorem et. nobis veritatis qui quibusdam quis eius!"
+    }
+  ]
+}

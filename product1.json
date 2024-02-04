@@ -1,0 +1,23 @@
+{
+  "id": "product1",
+  "name": "Bike",
+  "description": "labore eveniet omnis consequuntur sunt accusamus.",
+  "price": 22.812312871470233,
+  "brand": "Rooxo",
+  "category": "est",
+  "color": "Orange",
+  "size": "ipsum",
+  "availability": 97,
+  "reviews": [
+    {
+      "user": "Matthew Cruz",
+      "rating": 4,
+      "comment": "perspiciatis consequatur sint est quaerat. exercitationem autem amet nostrum et harum vel est voluptas ad.\talias id perferendis sed tenetur veniam qui. dolores illum dicta facilis vero cumque. libero ut et eos et ea. libero occaecati itaque. architecto quia neque et. quas rerum repellendus et suscipit velit ducimus. nobis et voluptatem rerum officia velit. nihil exercitationem tenetur dolore et velit consequuntur a consequuntur."
+    },
+    {
+      "user": "Eric Harper",
+      "rating": 5,
+      "comment": "officiis et tempore maxime facilis voluptatem.\tquis nam magnam delectus. officiis quia perspiciatis laborum. praesentium incidunt fugiat dolores et."
+    }
+  ]
+}

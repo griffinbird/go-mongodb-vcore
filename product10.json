@@ -1,0 +1,18 @@
+{
+  "id": "product10",
+  "name": "Salad",
+  "description": "modi dolorem accusamus sit sint.",
+  "price": 59.021819494508655,
+  "brand": "Kwideo",
+  "category": "error",
+  "color": "Turquoise",
+  "size": "quam",
+  "availability": 44,
+  "reviews": [
+    {
+      "user": "Louis Allen",
+      "rating": 1,
+      "comment": "molestiae sed maiores minus enim non. autem nisi sequi voluptas dolorem culpa. doloribus est magnam ut nam aliquid culpa doloremque reiciendis. consequuntur sint natus inventore sit quam tenetur! aut quia animi totam nihil eligendi! qui error est impedit iusto! alias saepe maiores eaque quis. explicabo voluptatum laboriosam. dolor aut optio sequi accusantium.\titaque fuga repellat. eveniet ut animi rerum voluptatem quis. enim excepturi soluta explicabo maiores numquam nisi. omnis temporibus nulla et dolorem ea eligendi. libero ea in laudantium odio autem rem cupiditate necessitatibus itaque. et molestiae beatae quis temporibus aliquid."
+    }
+  ]
+}

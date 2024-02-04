@@ -1,0 +1,18 @@
+{
+  "id": "product9",
+  "name": "Bike",
+  "description": "autem non est harum accusamus architecto explicabo.",
+  "price": 64.30825442390004,
+  "brand": "Riffwire",
+  "category": "nobis",
+  "color": "Indigo",
+  "size": "quidem",
+  "availability": 91,
+  "reviews": [
+    {
+      "user": "Bobby Payne",
+      "rating": 5,
+      "comment": "nostrum cumque repellendus distinctio repellat non ipsum velit in. molestiae aperiam possimus deleniti facilis et. sunt accusamus provident quasi omnis et fugiat aut tempore. et ut architecto maiores. id quibusdam voluptate ut voluptatem et dolores quisquam neque nihil! deleniti placeat voluptatem et eum iusto quis asperiores! voluptas laudantium occaecati repellendus repudiandae eligendi error molestiae consequuntur minus cum! mollitia officiis exercitationem ducimus.\tarchitecto et debitis sint. officia cupiditate esse cupiditate voluptatum."
+    }
+  ]
+}

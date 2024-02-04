@@ -1,0 +1,33 @@
+{
+  "id": "product3",
+  "name": "Car",
+  "description": "quaerat non in consequatur qui id aut.",
+  "price": 68.41448619932031,
+  "brand": "Yakidoo",
+  "category": "quia",
+  "color": "Indigo",
+  "size": "voluptates",
+  "availability": 92,
+  "reviews": [
+    {
+      "user": "John Lawrence",
+      "rating": 5,
+      "comment": "eum pariatur accusantium. dolore tempore saepe ut molestias.\tet repellendus inventore aspernatur veniam voluptatem. in reprehenderit rerum molestiae autem. in impedit velit voluptates saepe. deserunt velit ea error fugit rem accusantium maiores aut. modi natus magni voluptate at sed enim et consectetur. suscipit harum molestias illo omnis! velit minus aperiam dicta ut. beatae nemo accusamus. a aut assumenda."
+    },
+    {
+      "user": "Alan Collins",
+      "rating": 5,
+      "comment": "eum est ipsam aut. molestiae ut optio asperiores quibusdam aut repellendus odio voluptatem excepturi est tempora. debitis officia iusto labore perferendis. harum adipisci est qui dolores dolorem et. aperiam dicta ut molestias! quibusdam id dolor quia eum!\tillum ut amet. autem quasi unde voluptatum ipsum id aliquam quo. commodi omnis quo."
+    },
+    {
+      "user": "Wayne Burns",
+      "rating": 3,
+      "comment": "quo quidem perferendis alias aut. maiores atque non quia expedita et odit. nesciunt reiciendis mollitia tempora. corporis enim eaque nemo pariatur rerum.\tut eos suscipit placeat et numquam eius. eos necessitatibus velit repellendus dignissimos id. ea sapiente hic ut. a quas aut consequatur velit omnis ratione. velit quibusdam vitae quisquam non. porro sed quis eius autem cum. labore quis et maxime et quis a perspiciatis."
+    },
+    {
+      "user": "Samuel Kim",
+      "rating": 3,
+      "comment": "quaerat incidunt tempore qui dolor molestiae! facere atque cum velit dolorem. eligendi voluptate vitae debitis autem fugit veniam voluptatum rem rerum. doloribus veritatis dolorem quasi quod tempora perferendis recusandae aut. rerum numquam nemo totam iusto et voluptatem ad rerum. qui voluptatum delectus est vel. quia dolor minus nobis sunt. repellat exercitationem nihil quae reiciendis eos aliquam. corporis tempore inventore laboriosam consequatur enim quod. nam vero et ad eum sed tempore.\tdolor sed aspernatur praesentium et enim numquam. et fugiat corporis quisquam et quia doloribus! consequatur et velit molestiae voluptatibus eius at voluptatem quis. amet aliquam et ut tempore itaque maiores quis eum. reprehenderit quos ut consequatur at error. ratione ex ut praesentium quas quo et inventore unde. veritatis reprehenderit odit omnis laborum ratione eos! earum et omnis veritatis aut. amet debitis magni qui cumque libero sed facere et harum."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "product5",
+  "name": "Shoes",
+  "description": "dolorum non cumque ut.",
+  "price": 50.80190210466864,
+  "brand": "Twitterwire",
+  "category": "iure",
+  "color": "Indigo",
+  "size": "eum",
+  "availability": 47,
+  "reviews": [
+    {
+      "user": "Clarence Stone",
+      "rating": 1,
+      "comment": "optio eum dolore aspernatur. odio consequuntur voluptate cumque impedit! iure ipsa doloremque dolores aspernatur quia adipisci amet non. officiis incidunt enim aut. officiis commodi quae cupiditate rerum. repellat sit laudantium dolores neque! ratione quia nam cumque eveniet.\tullam dolore ea iusto."
+    },
+    {
+      "user": "Mr. Juan Young",
+      "rating": 4,
+      "comment": "itaque voluptas ipsa sed sint aspernatur et aut! nostrum at voluptates officiis asperiores. labore voluptatum sint. ullam dolorum non debitis et.\tminus placeat in officiis. hic qui provident aut dolore corrupti. fugit harum omnis dolor. vitae eum a totam distinctio deserunt doloremque totam mollitia. et adipisci rerum molestias quos nostrum fugit rerum. repellat consequatur deleniti quia accusantium nisi quia. commodi quas dolorem quis. similique placeat qui totam dolor harum quia aut soluta. adipisci vero rerum libero."
+    },
+    {
+      "user": "Ronald Harper",
+      "rating": 1,
+      "comment": "temporibus aut alias nostrum. aut laudantium sit hic reiciendis. voluptatem eum explicabo laudantium!\tut quia distinctio recusandae enim non."
+    },
+    {
+      "user": "Willie Torres",
+      "rating": 5,
+      "comment": "ullam esse minima aut assumenda asperiores nam.\tsint est voluptatem et non!"
+    }
+  ]
+}

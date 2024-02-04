@@ -1,0 +1,23 @@
+{
+  "id": "product6",
+  "name": "Chips",
+  "description": "facilis voluptatem voluptates.",
+  "price": 88.50505046897963,
+  "brand": "Photobug",
+  "category": "incidunt",
+  "color": "Teal",
+  "size": "et",
+  "availability": 21,
+  "reviews": [
+    {
+      "user": "Henry Foster",
+      "rating": 5,
+      "comment": "laboriosam rerum architecto eaque enim repudiandae est voluptas. ex consectetur quae quia provident voluptas. cumque voluptatem hic quia quasi! aut nam quibusdam dolorum dolores tempore ipsa debitis. voluptas labore nisi nemo quis consectetur natus tempore.\tsaepe et iusto architecto qui. natus vitae adipisci qui perspiciatis ex. voluptas in eum corrupti nisi. rerum culpa assumenda provident. quia quia quis fugiat sint dignissimos enim totam. et repellendus molestiae omnis est. aut voluptate autem perferendis in quos qui sit. sed quas ipsa dignissimos maiores et ipsum accusamus magni. et veritatis placeat dolore! ut et corrupti nesciunt est."
+    },
+    {
+      "user": "Mr. Aaron Rivera",
+      "rating": 1,
+      "comment": "quis illum eum dolorem ducimus. odit mollitia repellat. similique natus sint dignissimos similique. sapiente et quia necessitatibus atque ex dolorem facilis. officia omnis saepe soluta. iste amet a non ipsa dolorum natus.\tdolorum molestias dolorem et dolores corporis. ipsam maiores nisi modi veniam aut repellat aut consequatur sunt!"
+    }
+  ]
+}

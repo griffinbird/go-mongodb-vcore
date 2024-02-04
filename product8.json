@@ -1,0 +1,33 @@
+{
+  "id": "product8",
+  "name": "Bike",
+  "description": "doloremque eius amet saepe.",
+  "price": 74.6194069450584,
+  "brand": "Feedfish",
+  "category": "qui",
+  "color": "Yellow",
+  "size": "qui",
+  "availability": 60,
+  "reviews": [
+    {
+      "user": "Dr. Alan Ward",
+      "rating": 5,
+      "comment": "dicta facilis accusantium. temporibus quibusdam veritatis esse quis magni. totam ut aut molestiae mollitia. similique labore eos aut et quo. autem quo quas sequi totam laborum. deleniti repellat quidem qui eum. officia similique officia reprehenderit qui dolor et.\tipsa aspernatur aliquid tempore. sed at velit atque. adipisci odit impedit ut et aliquam temporibus quo. doloribus mollitia voluptatibus non consequatur. fugiat qui eos aliquid maxime est. recusandae laboriosam placeat accusamus voluptatem sint sit. delectus voluptates accusamus qui rerum dolorum et autem voluptas optio. ab odit aut autem saepe."
+    },
+    {
+      "user": "Andrew Fuller MD",
+      "rating": 4,
+      "comment": "libero esse asperiores esse ea. facere expedita suscipit tempora voluptas. voluptatem placeat cupiditate fuga enim dolorem.\tfacere numquam ratione aut blanditiis vel. amet exercitationem quia commodi perspiciatis et qui. molestiae esse architecto aliquam laborum quidem voluptates debitis. ea cupiditate nobis et odio quia libero eum illo. et et laboriosam ipsa! ea eligendi quia odit at qui consectetur ducimus eaque. molestiae accusamus qui temporibus dignissimos! dolorum ratione nam mollitia consequatur qui ipsam."
+    },
+    {
+      "user": "Aaron Kim",
+      "rating": 5,
+      "comment": "et qui at. corporis eligendi libero corporis sed enim odio. nam reiciendis itaque reiciendis dolor non voluptatum. qui sit quia possimus odit. ullam assumenda tempora dolor assumenda. est enim laborum fugit minima fugiat accusantium aut. fuga qui soluta quia dicta molestiae nihil. facere doloribus pariatur nostrum ullam. quis blanditiis dolorem ut provident. doloremque sit dolor architecto qui natus quia.\tnesciunt magnam sunt magnam et odit. nesciunt ut animi impedit voluptatem ratione laudantium libero. saepe rerum praesentium tempore. dolorum ex illum. velit maxime ab veniam omnis fuga. iste qui voluptatibus eos culpa aut modi placeat. qui sapiente qui autem a. explicabo ducimus ut explicabo. labore dolor eum laudantium et minima perferendis quaerat et. dolores porro voluptatum praesentium."
+    },
+    {
+      "user": "Dr. Mark Rose",
+      "rating": 5,
+      "comment": "vel ea consequatur placeat nihil nesciunt doloribus. velit aut omnis itaque. omnis aut dolor voluptatem temporibus. omnis ut sit omnis dolores ut!\tdoloremque aut velit laboriosam. ut atque ut molestiae quis provident. atque ipsum beatae."
+    }
+  ]
+}

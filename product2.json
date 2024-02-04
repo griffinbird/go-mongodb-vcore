@@ -1,0 +1,23 @@
+{
+  "id": "product2",
+  "name": "Bike",
+  "description": "quis numquam officiis deserunt ipsum explicabo.",
+  "price": 32.585571112574456,
+  "brand": "Trilith",
+  "category": "architecto",
+  "color": "Pink",
+  "size": "reiciendis",
+  "availability": 69,
+  "reviews": [
+    {
+      "user": "Daniel Arnold",
+      "rating": 1,
+      "comment": "nostrum enim quia dolores. quibusdam impedit at ad in occaecati minima. consectetur velit veritatis expedita illum.\tab id maiores facilis molestiae voluptas consequatur! et dicta nostrum ipsum dignissimos. rem sit a ut. quasi aut consectetur et. repellat quasi accusamus nostrum veniam vero aut sequi. id quia odio et rerum! ducimus cum sint aut in."
+    },
+    {
+      "user": "Henry Reid",
+      "rating": 5,
+      "comment": "ipsa in est eaque doloribus odio. neque libero occaecati consequatur odit quisquam. ut rerum est nam. nam et itaque rerum pariatur modi. velit quia sint esse est autem. non maiores qui id reiciendis iusto. ut qui qui et deserunt labore sunt autem. voluptates qui optio non quam. qui aliquam velit rerum.\tvoluptate et voluptatibus reiciendis delectus quasi. sequi ad qui possimus aperiam non aut. sed consequatur odio. ullam magni aut ut eveniet aspernatur."
+    }
+  ]
+}
